@@ -7,7 +7,7 @@ pragma solidity ^0.4.18;
 // Symbol      : [insert token symbol here]
 // Name        : [insert token name here]
 // Total supply: [insert total supply of tokens here]
-// Decimals    : [insert decimal denomimation per token, up to 18]
+// Decimals    : [insert decimal denomination per token, up to 18]
 //
 // Enjoy.
 //
